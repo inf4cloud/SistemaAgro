@@ -1,0 +1,11 @@
+com/mycompany/agro/JakartaRestConfiguration.class
+Model/FinanceiroRomaneio.class
+Model/Area.class
+Model/FinanceiroRomaneioDespesasCustos.class
+Model/DespesasCustos.class
+Model/Alimento.class
+Model/Romaneio.class
+Model/Classificacao.class
+Model/Parceiro.class
+com/mycompany/agro/resources/JakartaEE10Resource.class
+Model/Endereco.class
